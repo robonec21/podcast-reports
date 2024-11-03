@@ -11,7 +11,7 @@ A Java application for analyzing podcast data and generating reports.
 
 Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/robonec21/podcast-reports.git
 cd podcast-reports
 ```
 
